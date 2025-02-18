@@ -4,9 +4,9 @@
     <img height="280px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastianrohr&theme=gruvbox"/>    
 </p>
 
-🔭 I’m currently enrolled in MSc Data Science, where I'm developing skills in statistics, programming and machine learning.
+🔭 I have a MSc in Data Science, I developed skills in statistics, programming and machine learning.
 
-💼 I'm working part-time as a Machine Learning Engineer, where I'm responsible for designing, building and machine learning models and putting them into production.
+💼 I'm working as a Data Scientist as Trustpilot, where I'm focusing on full-stack data scientist, creating end-to-end ML pipelines.
 
 👯 I’m looking to collaborate on open source projects to enhance my skills and learn from others in the community.
 

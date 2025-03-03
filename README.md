@@ -6,7 +6,7 @@
 
 🔭 I have a MSc in Data Science, where I developed skills in statistics, programming and machine learning.
 
-💼 I'm working as a Data Scientist as Trustpilot, where I'm focusing on full-stack data scientist, creating end-to-end ML pipelines.
+💼 I'm working as a Data Scientist at Trustpilot, where I'm focusing on full-stack data science, creating end-to-end ML pipelines.
 
 👯 I’m looking to collaborate on open source projects to enhance my skills and learn from others in the community.
 
